@@ -1,0 +1,18 @@
+.banner{
+  background-image: url(../../images/money.jpeg);
+  background-size: cover;
+  background-position: center;
+  padding: 300px 0;
+}
+
+.banner h1, .banner p{
+  color: white;
+}
+
+.banner h1{
+  font-size: 60px;
+}
+
+.banner p{
+  font-size: 30px;
+}

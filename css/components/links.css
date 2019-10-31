@@ -1,0 +1,10 @@
+.links a{
+  font-size: 60px;
+  color: #51DE88;
+}
+
+.links p{
+  font-size: 30px;
+  color: lightgrey;
+  font-weight: thin;
+}
